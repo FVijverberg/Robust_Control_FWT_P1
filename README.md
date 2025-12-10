@@ -15,9 +15,9 @@ The repository includes:
 ---
 
 ## Authors
-- *Friso Vijverberg
+- Friso Vijverberg
 - Freya van Apeldoorn
-- Douwe Brogtrop*  
+- Douwe Brogtrop 
  
 - TU Delft  
 
