@@ -6,7 +6,7 @@ The project focuses on designing and evaluating advanced control strategies for 
 
 The repository includes:
 - State-space modelling of the floating wind turbine system  
-- LQR, LQG, and H∞ controller design  
+- PID, Mixed Sensitivity H∞ and Fixed Structure controller design  
 - Open-loop and closed-loop validation  
 - Time-domain simulations  
 - Controller analysis using robustness metrics (gain/phase margins, singular values)  
@@ -18,7 +18,7 @@ The repository includes:
 - *Friso Vijverberg
 - Freya van Apeldoorn
 - Douwe Brogtrop*  
-- 
+ 
 - TU Delft  
 
 ---
