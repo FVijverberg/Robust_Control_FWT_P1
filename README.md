@@ -18,7 +18,5 @@ The repository includes:
 - Friso Vijverberg
 - Freya van Apeldoorn
 - Douwe Brogtrop 
- 
-- TU Delft  
 
 ---
