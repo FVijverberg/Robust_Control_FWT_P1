@@ -31,5 +31,3 @@ This repository also contains the code and Live Script for Part 2 of the assignm
 - Includes time-domain utilities `stepWind` and `sineWind` for nominal and uncertain-sample
 Requirements: MATLAB with Control System Toolbox and Robust Control Toolbox (for `hinfsyn`, `musyn`, `hinfstruct`, uncertainty tools).
 
-Usage: run `Robust_Analysis_Part2.m` after loading `Assignment_Data_SC42145_2025.mat` (or open the Live Script `.mlx` and run interactively).
-
