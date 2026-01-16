@@ -15,7 +15,7 @@ The repository includes:
 
 ## Part 2 — Robust Analysis and Controller Design
 
-This repository also contains the code and Live Script for Part 2 of the assignment, implemented in `Robust_Analysis_Part2.m` (and a corresponding `.mlx` Live Script). Key features:
+This repository also contains the code and Live Script for Part 2 of the assignment. Key features:
 - Constructs a generalized plant with input/output uncertainty and weighting functions for mixed-sensitivity synthesis.
 - Synthesizes a nominal H-infinity controller using `hinfsyn` and performs robust controller design using D-K iteration with `musyn`.
 - Performs Fixed-Structure synthesis via `hinfstruct` for comparison and extracts controller gains.
